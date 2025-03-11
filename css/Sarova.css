@@ -1,0 +1,13 @@
+.hero{
+    background: url("../Images/dark.jpg ");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.product-img{
+      width: 400px;
+      height: 500px;
+      margin-top: 25px;
+      margin-left: 40px;
+      margin-right: 20px;
+    }
